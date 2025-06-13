@@ -1,4 +1,4 @@
-<h1>Hi👋, I'm Animesh Panna [7wh0Am-i]</h1>
+<h1>Hi👋, I'm Animesh [7wh0Am-i]</h1>
 <h3>A passionate cybersecurity student from India.</h3>
 
 - I’m currently working on [AI-F0rc3](https://github.com/7wh0Am-i/AI-F0rc3)
