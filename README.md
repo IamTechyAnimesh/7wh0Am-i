@@ -1,16 +1,12 @@
 <h1>Hi👋, I'm Animesh [7wh0Am-i]</h1>
 <h3>A passionate cybersecurity student from India.</h3>
 
-- I’m currently working on [AI-F0rc3](https://github.com/7wh0Am-i/AI-F0rc3)
-
 - I’m currently learning **Cyber Security , Network , Python , Linux**
 
-- All of my projects are available at [Coming Soon](Coming Soon)
+- All of my projects are available at GitHun.
 
 - I regularly write articles on [Coming Soon](Coming Soon)
-
--  How to reach me **animeshpanna10gmail.com**
-
+  
 - Know about my experiences [Coming Soon](Coming Soon)
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@AnimeshPanna" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
